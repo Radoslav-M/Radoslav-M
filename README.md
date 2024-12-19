@@ -1,4 +1,4 @@
-##[Watch this](https://www.youtube.com/shorts/sqOSt2ZA_XU)
+[Watch this](https://www.youtube.com/shorts/sqOSt2ZA_XU)
 
 <!--
 **Radoslav-M/Radoslav-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
